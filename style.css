@@ -1,7 +1,7 @@
 header  {
     width: 100%;
-    height: 950px;
-    background-image: url(./IMG_8002.JPeg);
+    height: 150px;
+    background-image: url(./images/IMG_8002.jpeg);
     background-repeat: no-repeat;
     background-size: 100%;
 }
@@ -9,15 +9,16 @@ header  {
 
 h1 {
     display: block;
-    width: 40%;
+    width: 20%;
     font-family: 'Lucida Fax';
     font-size: 24px;
     margin: 0 auto;
     padding: 10px 20px;
     border: 2px solid;
-    background-color: lightgray;
+    background-color: rgba(215, 215, 215, 0.6);
     color: rgb(208, 70, 91);
     text-align: center;
     position: relative;
-    top: 50px;
+    top: 20px;
+    border-radius: 10px;
 }
